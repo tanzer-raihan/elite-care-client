@@ -1,0 +1,30 @@
+.contactContainer{
+    background-image: url('../../../assets/images/appointment.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.inputField{
+    padding: 4px 10px;
+    outline: none;
+    width: 300px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border: none;
+    border-radius: 3px;
+
+}
+.inputField:focus{
+    border: 2px solid rgb(10, 203, 107);
+}
+.submitBtn{
+    
+        background-color: rgb(46, 181, 154);
+        padding: 5px 15px;
+        border: 1px solid rgb(37, 214, 179);
+        font-weight: 600;
+        transition: .5s ease;
+        border-radius: 3px;
+        color: white;
+        width: 100%;
+   
+}

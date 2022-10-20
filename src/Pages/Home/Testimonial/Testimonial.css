@@ -1,0 +1,13 @@
+.testimonialContainer{
+    background-color: #f9f9f9;
+}
+.client{
+    padding: 2px;
+    border: 2px solid rgb(10, 203, 107);
+    border-radius: 50%;
+}
+.clientCard{
+    padding: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 5px;
+}

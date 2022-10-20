@@ -1,0 +1,29 @@
+
+.addAdminField {
+    outline: none;
+    padding: 3px 10px;
+    background-color: white;
+    font-weight: 500;
+    border: 1px solid gray;
+    width: 100%;
+    border-radius: 3px;
+    transition: .5s ease;
+    font-weight: 600;
+}
+.addAdminContainer{
+    padding: 50px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.addAdminField:hover {
+    border: 1px solid rgb(46, 181, 154);
+}
+.adminBtn{
+    width: 100%;
+    background-color: rgb(46, 181, 154);
+    color: white;
+    border-radius: 3px;
+    border: 1px solid rgb(46, 181, 154);
+    padding: 5px;
+    transition: .5s ease;
+}

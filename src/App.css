@@ -1,5 +1,5 @@
-.App {
-  text-align: center;
+.app {
+  font-family: 'Roboto', sans-serif;
 }
 
 .App-logo {
@@ -11,6 +11,14 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.py{
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.themeColor{
+  color: rgb(27, 204, 169);
 }
 
 .App-header {
@@ -32,6 +40,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

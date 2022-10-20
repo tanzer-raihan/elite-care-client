@@ -1,0 +1,12 @@
+.careContainer{
+    background-color: #f9f9f9;
+}
+.careBtn{
+    background-color: rgb(46, 181, 154);
+    padding: 7px 15px;
+    border: 1px solid rgb(37, 214, 179);
+    font-weight: 600;
+    transition: .5s ease;
+    border-radius: 3px;
+    color: white;
+}

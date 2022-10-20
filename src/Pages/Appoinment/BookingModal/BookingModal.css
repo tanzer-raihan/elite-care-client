@@ -1,0 +1,15 @@
+.appointmentField{
+    padding: 4px 10px;
+    outline: none;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: rgb(100, 99, 99);
+}
+.disabledField{
+    background-color: gainsboro;
+}
+.appointmentField:focus{
+    border: 1px solid rgb(33, 180, 111);
+}
